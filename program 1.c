@@ -13,6 +13,6 @@ int main()
     x = y;
     y = temp;
 
-    printf("\nAfter Swapping: x = %d, y = %d", x, y);
+    printf("\nAfter Swapping ted: x = %d, y = %d", x, y);
     return 0;
 }
